@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "滑动吸顶锚点",
+  "component": true,
+  "usingComponents": {
+    "course-introduction": "/pages/tabBar/course-introduction",
+    "course-catalogue": "/pages/tabBar/course-catalogue"
+  }
+}

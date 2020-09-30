@@ -1,0 +1,29 @@
+{
+  "appid": "touristappid",
+  "appInfo": {},
+  "appkey": "",
+  "condition": {
+    "swan": {
+      "current": 1,
+      "list": [
+        {
+          "name": "",
+          "query": "",
+          "id": 0,
+          "pathName": "pages/index/index"
+        },
+        {
+          "id": 1,
+          "name": "pages/tabBar/index",
+          "pathName": "pages/tabBar/index",
+          "query": ""
+        }
+      ]
+    }
+  },
+  "setting": {
+    "urlCheck": true
+  },
+  "libVersion": "",
+  "projectname": "baidu-mini-mall"
+}
